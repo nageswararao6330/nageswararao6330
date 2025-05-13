@@ -54,21 +54,6 @@ Welcome to my GitHub profile! I'm a results-driven Salesforce Developer & Admini
     <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce" height="50"/>
   </a> &nbsp;&nbsp;
   
-  <!-- Apex (using Java icon as Apex is not widely available) -->
-  <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Apex" height="50"/>
-  </a> &nbsp;&nbsp;
-  
-  <!-- Lightning Web Components -->
-  <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/salesforce.svg" alt="LWC" height="50"/>
-  </a> &nbsp;&nbsp;
-  
-  <!-- Visualforce (using HTML icon) -->
-  <a href="https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Visualforce" height="50"/>
-  </a> &nbsp;&nbsp;
-
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
