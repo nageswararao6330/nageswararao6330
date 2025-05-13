@@ -11,7 +11,3 @@ About Me 🚀
 🌱 Always eager to learn and explore new technologies
 
 📫 How to reach me nageswarao1830@gmail.com
-
-📄 Click Here ---> To view my Porfolio
-
-👨‍💻 All of my projects are available at Project Repositories
