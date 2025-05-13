@@ -53,69 +53,81 @@ Welcome to my GitHub profile! I'm a results-driven Salesforce Developer & Admini
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce" height="50"/>
   </a> &nbsp;&nbsp;
+  
   <!-- Apex (using Java icon as Apex is not widely available) -->
   <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Apex" height="50"/>
   </a> &nbsp;&nbsp;
+  
   <!-- Lightning Web Components -->
   <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/salesforce.svg" alt="LWC" height="50"/>
   </a> &nbsp;&nbsp;
+  
   <!-- Visualforce (using HTML icon) -->
   <a href="https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Visualforce" height="50"/>
   </a> &nbsp;&nbsp;
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
-  </a> &nbsp;&nbsp;
+
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
   </a> &nbsp;&nbsp;
+  
   <!-- Java -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40"/>
   </a> &nbsp;&nbsp;
+  
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="40"/>
   </a> &nbsp;&nbsp;
+  
   <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40"/>
   </a> &nbsp;&nbsp;
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+    </a> &nbsp;&nbsp;
+    
   <!-- SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" height="40"/>
   </a> &nbsp;&nbsp;
-  <!-- Oracle -->
-  <a href="https://www.oracle.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="40"/>
-  </a> &nbsp;&nbsp;
+  
   <!-- MySQL -->
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
   </a> &nbsp;&nbsp;
+  
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> &nbsp;&nbsp;
+  
   <!-- Jenkins -->
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="40"/>
   </a> &nbsp;&nbsp;
+  
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="40"/>
   </a> &nbsp;&nbsp;
+  
   <!-- Jira -->
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="40"/>
   </a> &nbsp;&nbsp;
+  
   <!-- Confluence -->
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="Confluence" height="40"/>
+ </a> &nbsp;&nbsp;
   </a>
 </p>
 
