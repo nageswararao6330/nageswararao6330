@@ -124,10 +124,6 @@ Welcome to my GitHub profile! I'm a results-driven Salesforce Developer & Admini
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="40"/>
   </a> &nbsp;&nbsp;
   
-  <!-- Confluence -->
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="Confluence" height="40"/>
- </a> &nbsp;&nbsp;
   </a>
 </p>
 
