@@ -17,10 +17,13 @@ Welcome to my GitHub profile! I'm a results-driven Salesforce Developer & Admini
 <h3>About Me 🚀</h3>
 
 🎓 Masters in Business Analytics @**Trine University**  
+
 🎓 Bachelor’s in Agriculture @**Acharya N G Ranga Agriculture University (ANGRAU), India**
 
 💼 Salesforce Developer @**Canadian Pacific Kansas City (CPKC), USA**  
+
 💼 Salesforce Admin/Developer @**Alliance One Industries India Pvt Ltd**  
+
 💼 Salesforce Admin/Developer @**Microspark Solutions, India**
 
 🌱 Always eager to learn and explore **new Salesforce features and technologies**
@@ -28,6 +31,7 @@ Welcome to my GitHub profile! I'm a results-driven Salesforce Developer & Admini
 📫 How to reach me: **nageswarao1830@gmail.com**
 
 📄 Click Here ---> [To view my Portfolio Website](https://nageswararao6330.github.io/)  
+
 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/nageswararao6330?tab=repositories)
 
 <br/>
